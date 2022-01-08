@@ -51,9 +51,9 @@ int main()
     int arr[] = {1, 3, 5, 5, 5, 5, 37, 104, 135};
     int n = sizeof(arr) / sizeof(arr[0]);
 
-    cout << firstIndex(arr, 0, n - 1, 5);
+    cout << "First index of key is: "<<firstIndex(arr, 0, n - 1, 5);
     cout << endl;
-    cout << lastIndex(arr, 0, n - 1, 5);
+    cout << "First index of key is: "<<lastIndex(arr, 0, n - 1, 5);
 
     return 0;
 }

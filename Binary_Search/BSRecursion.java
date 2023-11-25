@@ -1,7 +1,7 @@
 /**
  * Main
  */
-public class Main {
+public class BSRecursion {
     public static void main(String[] args) {
         System.out.println("********Binary Serach using Recursion*********");
         int arr[] = {-1,0,3,5,9,12};
